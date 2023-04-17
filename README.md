@@ -1,10 +1,10 @@
-**JavaScript Chess Game-**
+# JavaScript Chess Game
 
 - This program is a JavaScript implementation of the board game Chess, with a computer player opponent. All move types are supported, including en passant, castling and promotion.
 
 - Try it out here. Usage is shown below the chessboard. At least Internet Explorer (8 or later), Chrome and Firefox should work.
 
-**Code Structure**
+# Code Structure
 
 - Source files are placed in the src directory. Minification and linting files are placed in the build directory. Source file contents:
 
@@ -29,7 +29,7 @@
 
 - To run the tests, open test.html in the src directory.
 
-**TODO**
+# TODO 
 
 - Static exchange evaluation
 - Transposition table
